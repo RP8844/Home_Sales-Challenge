@@ -10,12 +10,15 @@ In this challenge, we used our knowledge of SparkSQL to determine key metrics ab
 4. Create a temporary table called home_sales.
 5. Answer the following questions using SparkSQL:
   - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+    
     <img width="831" alt="image" src="https://github.com/RP8844/Home_Sales-Challenge/assets/118138351/af832ca9-306e-44e0-922b-ceff435c5ef7">
     
   - What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+    
     <img width="853" alt="image" src="https://github.com/RP8844/Home_Sales-Challenge/assets/118138351/2b43ec43-8fa6-4469-8afb-fc5c153e3dc0">
 
   - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+    
     <img width="926" alt="image" src="https://github.com/RP8844/Home_Sales-Challenge/assets/118138351/b20838b8-6952-4600-9852-80f622756934">
 
   - What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
